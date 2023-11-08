@@ -1,1 +1,1 @@
-# philosophers-quest
+# Philosophers Quest
