@@ -1,3 +1,3 @@
 # Philosophers Quest
 
-Latin
+### Latin
