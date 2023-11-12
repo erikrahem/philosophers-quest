@@ -1,5 +1,5 @@
 # Philosophers Quest
-
+Educational game.
 ### Books
 
 ### Greek
